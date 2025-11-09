@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png?raw=true)
+![Header](https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png)
 
 
 <!-- Intro -->
