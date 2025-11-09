@@ -1,10 +1,9 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-image-link-here" alt="Ghina Fatima Banner" width="100%">
-</p>
+![Header](https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png?raw=true)
+
 
 <!-- Intro -->
-<div align="center">
+<div align="left">
 
 ### 💫 Hi there! I’m **Ghina Fatima** 👋  
 **AI & Machine Learning Enthusiast | Data-Driven Thinker | Turning Models into Impact**
