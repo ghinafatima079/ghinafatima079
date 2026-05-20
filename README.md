@@ -1,40 +1,61 @@
-
-<h1 align="center">Ghina Fatima</h1>
-
+<!-- Banner -->
 <p align="center">
-Full-stack developer exploring AI systems, infrastructure, intelligent workflows, and developer-focused tooling.
+  <img src="https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png" />
 </p>
 
 <p align="center">
-Currently building across backend systems, AI pipelines, Dockerized architectures, and workflow-oriented products.
+Full-stack developer exploring intelligent systems, AI pipelines, infrastructure, and developer-focused tooling.
 </p>
+
+<p align="center">
+I enjoy building systems that organize, transform, or simplify complexity — from developer workflow tools and journaling platforms to AI-driven pipeline architectures.
+</p>
+
+---
+
+## About Me
+
+I recently graduated and have been spending most of my time building full-stack systems while exploring areas like:
+- backend architecture
+- Docker & infrastructure
+- AI workflows
+- developer tooling
+- intelligent product systems
+
+My projects usually revolve around:
+- structured workflows
+- engineering productivity
+- automation
+- AI-assisted systems
+- interactive user experiences
+
+I prefer learning by building real systems end-to-end rather than following isolated tutorials.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,tailwind,docker,postgres,git,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,tailwind,postgres,docker,git,vscode" />
 </p>
 
 ---
 
-## Current Focus
+## Currently Exploring
 
-```txt
-AI Pipelines • Infrastructure • Developer Tooling • Intelligent Systems
-```
+- AI pipeline architectures
+- Dockerized applications
+- Workflow-oriented product systems
+- Infrastructure & orchestration
+- Developer-focused tooling
+- Intelligent automation systems
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghinafatima079&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinafatima079&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghinafatima079&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---
