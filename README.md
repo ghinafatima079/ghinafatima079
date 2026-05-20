@@ -1,67 +1,99 @@
 <!-- Banner -->
 ![Header](https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png)
 
+# Ghina Fatima
 
-<!-- Intro -->
-<div align="left">
+Full-stack developer exploring AI systems, infrastructure, intelligent workflows, and developer-focused tooling.
 
-### 💫 Hi there! I’m **Ghina Fatima** 👋  
-**AI & Machine Learning Enthusiast | Data-Driven Thinker | Turning Models into Impact**
-
-💡 Passionate about exploring how **AI and computer vision** can shape smarter systems and real-world experiences.  
-🎯 Currently learning and building skills in **Deep Learning**, **NLP**, and **Generative AI** — one model at a time.
-
-</div>
-
----
-
-### 🧠 What I’m Learning
-- 🤖 Machine Learning & Deep Learning  
-- 🧩 Computer Vision & NLP  
-- 🧪 Data preprocessing and experimentation
+Currently focused on building systems around:
+- AI pipelines
+- workflow automation
+- developer tooling
+- infrastructure & orchestration
+- intelligent product systems
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
+
+### Languages & Frameworks
+- Python
+- TypeScript
+- JavaScript
+- FastAPI
+- Next.js
+- React
+
+### AI / ML
+- PyTorch
+- TensorFlow
+- OpenCV
+- Scikit-learn
+- NLP fundamentals
+
+### Infrastructure & Tools
+- Docker
+- Docker Compose
+- PostgreSQL
+- SQLAlchemy
+- Git & GitHub
+
+### Frontend
+- Tailwind CSS
+- Responsive UI systems
+- Interactive workflow-focused interfaces
+
+---
+
+## Featured Projects
+
+### DevJournal
+Full-stack developer journaling platform for tracking projects, logs, issues, notes, and engineering progress.
+
+### DevResume
+Structured resume generation system focused on transforming project work into ATS-friendly proof-of-work.
+
+### Before You Forget
+VSCode extension for frictionless reminder and thought capture during development workflows.
+
+### Explain The Code
+AI-assisted VSCode extension for contextual code explanations inside the editor workflow.
+
+### Solve To Reveal
+Interactive jigsaw puzzle generator with hidden-message reveal mechanics and shareable puzzle experiences.
+
+---
+
+## Current Focus
+
+- AI pipeline systems
+- Infrastructure & containerization
+- Intelligent workflow tooling
+- Developer-focused products
+- Systems-oriented engineering
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logo=nltk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghinafatima079&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghinafatima079&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---
 
-### 🌱 Current Journey
-- Strengthening my foundations in AI & ML  
-- Experimenting with small projects and datasets  
-- Documenting my learning on GitHub  
+## Connect
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/ghina-fatima-268a0a2a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghinafatima&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghinafatima&theme=tokyonight" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinafatima&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### 📬 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghina-fatima-268a0a2a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ghinafatima03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ghinafatima03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
