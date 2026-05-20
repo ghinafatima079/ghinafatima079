@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Header](https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png)
 
 <h1 align="center">Ghina Fatima</h1>
 
