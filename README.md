@@ -1,17 +1,14 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png" />
-</p>
+<h1 align="center">Ghina Fatima</h1>
 
 <p align="center">
-Full-stack developer exploring intelligent systems, AI pipelines, infrastructure, and developer-focused tooling.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Exploring+AI+Pipelines+%26+Infrastructure;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
 I enjoy building systems that organize, transform, or simplify complexity — from developer workflow tools and journaling platforms to AI-driven pipeline architectures.
 </p>
 
----
+<br>
 
 ## About Me
 
@@ -31,7 +28,7 @@ My projects usually revolve around:
 
 I prefer learning by building real systems end-to-end rather than following isolated tutorials.
 
----
+<br>
 
 ## Tech Stack
 
@@ -39,7 +36,7 @@ I prefer learning by building real systems end-to-end rather than following isol
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,tailwind,postgres,docker,git,vscode" />
 </p>
 
----
+<br>
 
 ## Currently Exploring
 
@@ -50,7 +47,7 @@ I prefer learning by building real systems end-to-end rather than following isol
 - Developer-focused tooling
 - Intelligent automation systems
 
----
+<br>
 
 ### 📊 GitHub Stats
 
@@ -58,7 +55,7 @@ I prefer learning by building real systems end-to-end rather than following isol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghinafatima079&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
----
+<br>
 
 ## Connect
 
