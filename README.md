@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png" />
+  <img src="https://github.com/ghinafatima079/ghinafatima079/blob/main/Github%20Banner.png" />
 </p>
 
 <p align="center">
