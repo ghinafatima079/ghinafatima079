@@ -1,4 +1,7 @@
-<h1 align="center">Ghina Fatima</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/ghinafatima079/ghinafatima079/blob/main/github%20banner.png" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Exploring+AI+Pipelines+%26+Infrastructure;Building+Intelligent+Systems" />
